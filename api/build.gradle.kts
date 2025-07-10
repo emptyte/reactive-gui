@@ -1,3 +1,3 @@
 plugins {
-  id("project.publishing-conventions")
+  id("reactive-gui.common-conventions")
 }

@@ -1,4 +1,4 @@
-rootProject.name = "template-build-logic"
+rootProject.name = "reactive-gui-build-logic"
 
 dependencyResolutionManagement {
   versionCatalogs {

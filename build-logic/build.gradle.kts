@@ -7,7 +7,7 @@ dependencies {
   implementation(libs.build.indra.crossdoc)
   implementation(libs.build.indra.publishing)
   implementation(libs.build.indra.spotless)
-  implementation("io.papermc.paperweight:paperweight-userdev:2.0.0-beta.14")
+  implementation("io.papermc.paperweight:paperweight-userdev:2.0.0-beta.17")
   compileOnly(files(libs::class.java.protectionDomain.codeSource.location))
 }
 

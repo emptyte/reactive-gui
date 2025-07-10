@@ -1,3 +1,3 @@
 plugins {
-  id("project.paperweight-fix")
+  id("reactive-gui.paperweight-fix")
 }
