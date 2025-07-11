@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-  compileOnlyApi(libs.paper.api)
+  compileOnly(libs.paper.api)
 
   api(project(":${rootProject.name}-api"))
 }
