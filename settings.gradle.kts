@@ -13,8 +13,8 @@ sequenceOf(
 }
 
 sequenceOf(
-  "adapt",
-  "api"
+  "api",
+  "test-plugin"
 ).forEach {
   include(":${rootProject.name}-runtime-bukkit-$it")
   project(":${rootProject.name}-runtime-bukkit-$it").projectDir = file("runtime-bukkit/$it")
