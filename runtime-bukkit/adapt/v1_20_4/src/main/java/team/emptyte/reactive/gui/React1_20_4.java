@@ -1,4 +1,4 @@
 package team.emptyte.reactive.gui;
 
-public interface AdaptionModule {
+public class React1_20_4 {
 }
